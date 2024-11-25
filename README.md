@@ -1,5 +1,6 @@
 # SvelteKit Static Blog Template
 
+
 A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.
 
 <p align="center">
